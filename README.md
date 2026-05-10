@@ -21,5 +21,5 @@ python -m venv venv
 source venv/bin/activate
 pip install pelican[markdown]
 pelican -lr
-
-License: MIT
+```
+ License: MIT
