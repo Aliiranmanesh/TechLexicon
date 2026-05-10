@@ -23,4 +23,4 @@ pelican.pid
 .DS_Store
 
 # Windows
-Thumbs.db
+Thumbs.dboutput/
