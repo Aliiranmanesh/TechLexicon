@@ -1,0 +1,26 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+.env/
+
+# --- Pelican ---
+# Output folder (built site)
+output/
+.cache/
+pelican.pid
+
+# --- IDE and OS ---
+# VS Code
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
